@@ -1,0 +1,25 @@
+{
+  "name": "nutzx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epam-huy-nguyen/nutzx.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "huy nguyen tuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epam-huy-nguyen/nutzx/issues"
+  },
+  "homepage": "https://github.com/epam-huy-nguyen/nutzx#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
